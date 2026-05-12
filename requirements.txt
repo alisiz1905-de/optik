@@ -1,0 +1,3 @@
+# Harici bağımlılık yoktur.
+# Proje yalnızca Python standart kütüphanesini kullanır.
+# Gerekli Python sürümü: 3.10+
