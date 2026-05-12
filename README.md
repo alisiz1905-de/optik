@@ -15,9 +15,9 @@ Bir gözlük mağazasının kiralama süreçlerini yönetmek için geliştirilmi
 
 | İsim | Okul No | Sorumluluk |
 |------|---------|------------|
-| [Ad Soyad 1] | [No] | `models.py` — Gozluk, Musteri, KiralamaKaydi sınıfları |
-| [Ad Soyad 2] | [No] | `depo.py` — Stok ve kayıt yönetimi |
-| [Ad Soyad 3] | [No] | `arayuz.py` — Konsol menüsü ve kullanıcı etkileşimi |
+| [kürşad oral] | [255815014] | `models.py` — Gozluk, Musteri, KiralamaKaydi sınıfları |
+| [talha eser2] | [255815043] | `depo.py` — Stok ve kayıt yönetimi |
+| [Ali altuntaş 3] | [255815016] | `arayuz.py` — Konsol menüsü ve kullanıcı etkileşimi |
 
 ---
 
