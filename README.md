@@ -19,7 +19,7 @@ Programlama II dersinde öğrenilen **Nesne Tabanlı Programlama (OOP)** ilkeler
 |------|---------|------------|
 | Kürşad Oral | 255815014 | `models.py` — Gozluk, Musteri, KiralamaKaydi sınıfları |
 | Talha Eser | 255815043 | `depo.py` — Stok ve kayıt yönetimi |
-| Ali Altuntaş | 255815016 | `web_app.py` — Flask web arayüzü, `arayuz.py` — Konsol arayüzü |
+| Ali Altuntaş | 255815016 |  `arayuz.py` — Konsol arayüzü |
 
 ---
 
