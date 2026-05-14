@@ -1,0 +1,15 @@
+# ATASUN GÖZLÜK KİRALAMA SİSTEMİ
+# Python Bağımlılıkları
+
+# Web Arayüzü için (Flask - Hafif ve Hızlı!)
+Flask>=3.0.0
+
+# Not: Proje yalnızca Python standart kütüphanesini ve Flask'ı kullanır
+# Gerekli Python sürümü: 3.10+
+
+# Kurulum:
+# pip install Flask
+
+# Çalıştırma:
+# python web_app.py
+# Ardından tarayıcıda: http://127.0.0.1:5000
